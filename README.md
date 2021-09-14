@@ -8,7 +8,7 @@ PHP, MySQL
 
  
 
-Software Requirement
+Software Requirement:
 XAMPP Server
 
 Installation Steps
@@ -19,9 +19,9 @@ Open phpmyadmin
 Create Database named inventory.
 Import database inventory.sql from downloaded folder(inside database)
 4. Open Your browser put inside "http://localhost/inventory/"
-5. To Login as admin put "http://localhost/inventory/admin"
 
-Admin Login Details
+
+Admin Login Details:
 Login Id : admin
 Password : admin
 
