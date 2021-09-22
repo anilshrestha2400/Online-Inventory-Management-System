@@ -3,7 +3,7 @@
 <div class="container-fluid main">
     <div class="row">
     <div class="col-md-4">
-    <a><img src="images/logo.png" alt="logo" style="height: 53px;"></a>
+    <a href="#"><img src="images/logo.png" alt="logo" style="height: 53px;"></a>
     <a class="navbar-brand " href="#">Inventory</a>
   </div>
   <div class="col-md-8">
